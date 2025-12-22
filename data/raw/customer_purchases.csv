@@ -1,0 +1,39 @@
+Customer_ID,Full_Name,Age,Gender,Purchased_Product,Purchase_Amount,Transaction_Date
+C_1001,Torayev Asadbek Ilhomovich,24,Male,Laptop,1200,2024-03-15
+C_1002,Nishonov Mirzabek Mrodbek ogli,31,Male,Smartphone,850,2024-05-20
+C_1003,BOLTAYEV JASURBEK SHUXRAT OGLI,22,Male,Monitor,300,2024-01-10
+C_1004,Eshbekov Sardor Namozboy ogli,28,Male,Smartwatch,150,2024-06-12
+C_1005,Rahmonova Mehrigiyo,21,Female,Tablet,450,2024-02-28
+C_1006,Ashurov Aslonbek Ashraf Ogli,26,Male,Laptop,1100,2024-08-05
+C_1007,Zayniddinov Asilbek Farxodovich,23,Male,Headphones,80,2024-04-22
+C_1008,Muhiddinova Sevara Yashin qizi,20,Female,Smartphone,900,2024-07-19
+C_1009,Yoqubov Aslbek Azamatovich,25,Male,Keyboard,50,2024-09-30
+C_1010,Avliyoqulova Nigora Valijon qizi,22,Female,Monitor,280,2024-11-05
+C_1011,Ibrohimjonov Ahrorjon Azamjon ogli,27,Male,Smartphone,700,2024-10-14
+C_1012,Oktamov Xondamir Xurshid ogli,24,Male,Laptop,1300,2024-12-01
+C_1013,Komilov Durbek Mehriddin ogli,29,Male,Smartwatch,200,2024-05-15
+C_1014,Karomatov Aslbek Bobomurodovich,23,Male,Tablet,400,2024-03-10
+C_1015,Davlatov Sherzodjon Shohrulla ogli,21,Male,Headphones,120,2024-01-25
+C_1016,Yusupboyev Ruslan Obidjonovich,35,Male,Laptop,1500,2024-04-18
+C_1017,Sattorov Nozim Ilxomjon ogli,28,Male,Smartphone,800,2024-08-22
+C_1018,Ergashov Sarvar Akmal ogli,24,Male,Monitor,350,2024-02-14
+C_1019,Xamidova Xadicha Faxriddinovna,20,Female,Smartphone,950,2024-09-05
+C_1020,Valijonov Xojiahror Otabekovich,26,Male,Keyboard,60,2024-07-30
+C_1021,Rasuljonov Mirhojiddin Jamoliddinovich,22,Male,Laptop,1150,2024-06-11
+C_1022,Ramazonov Farhod Nurmat ogli,30,Male,Smartphone,820,2024-01-05
+C_1023,Orinov Shohijahon Faridovich,25,Male,Monitor,320,2024-10-20
+C_1024,Juraev Asliddin,23,Male,Smartwatch,180,2024-12-15
+C_1025,Tojiddinova Munisa Shoviddin qizi,21,Female,Tablet,430,2024-04-03
+C_1026,IMOMNAZAROV ROZINAZAR TORAJON,22,Female,Laptop,1250,2024-05-25
+C_1027,Murodullayev Mirfayz Maqsudovich,24,Male,Smartphone,750,2024-02-12
+C_1028,Azamov Nozimbek Lochinbek Ogli,26,Male,Monitor,290,2024-11-18
+C_1029,ismoilov Shaxinbek Kamoliddinovich,25,Male,Keyboard,55,2024-03-27
+C_1030,Ibragimov Ibroxim,29,Male,Laptop,1400,2024-09-14
+C_1031,Toymurodova Jasmina Giyosiddinovna,20,Female,Smartphone,880,2024-08-01
+C_1032,Sheraliyev Mirzohid Muxsin ogli,27,Male,Tablet,460,2024-06-25
+C_1033,Hayitova Nodira Yusuf qizi,21,Female,Monitor,310,2024-12-22
+C_1034,Muradov Muhammadjon Bekzodivich,24,Male,Laptop,1100,2024-10-05
+C_1035,Sultonov Lazizbek Sharif ogli,23,Male,Smartwatch,160,2024-04-10
+C_1036,Davronov Sunnatulla Ikromjonovich,25,Female,Smartphone,920,2024-07-02
+C_1037,YOQUBOVA GUZAL ALISHER QIZI,22,Female,Laptop,1280,2024-01-15
+C_1038,Nusratov Nozim Navroz ogli,28,Male,Monitor,330,2024-11-28
